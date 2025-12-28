@@ -4,7 +4,7 @@ Role-based Job Portal application built with React (frontend) and Node.js (backe
 
 
 
-** Job Portal Application – Cloud Deployed (Azure)**
+Job Portal Application – Cloud Deployed (Azure)
 
  Project Overview:-
 
